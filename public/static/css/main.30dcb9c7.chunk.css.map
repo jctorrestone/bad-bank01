@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/navbar.css"],"names":[],"mappings":"AAAA,oBACI,SAAU,CACV,UAAW,CACX,cACJ","file":"main.30dcb9c7.chunk.css","sourcesContent":[".navbar-nav.ml-auto{\r\n    left: auto;\r\n    right: 10px;\r\n    position: fixed;\r\n}"]}
